@@ -1,1 +1,1 @@
-print("Hello There! How are you?Hope doing fine")
+print("Trying to test git commit messages")
